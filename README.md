@@ -1,0 +1,3 @@
+Segona pràctica de PREDA
+
+REPARTO EQUITATIVO DE ACTIVOS
